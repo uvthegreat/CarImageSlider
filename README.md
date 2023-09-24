@@ -1,4 +1,4 @@
-## Car DealerShip (WebwizarDry) live link: https://ritik48.github.io/Ritik_21BCS11468/
+## Car Image Slider live link: https://uvthegreat.github.io/CarImageSlider/
 
 ## Team
 
